@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565200445 source:c:\users\li-lo\desktop\empedded sys\c-programming\session_7\lec_7\exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	"exam.h"
+
+1565200243 c:\users\li-lo\desktop\empedded sys\c-programming\session_7\lec_7\exam\exam.h
+
+1565200937 source:c:\users\li-lo\desktop\empedded sys\c-programming\session_7\lec_7\exam\exam.c
+	<stdio.h>
+	<stdlib.h>
+	"exam.h"
+
